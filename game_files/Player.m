@@ -1,6 +1,5 @@
 classdef Player < handle
-    %PLAYER Summary of this class goes here
-    %   Detailed explanation goes here
+    %PLAYER Definition of player class
 
     properties
         Name
