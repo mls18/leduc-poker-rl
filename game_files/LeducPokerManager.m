@@ -1,6 +1,5 @@
 classdef LeducPokerManager < handle
-    %LEDUCPOKERMANAGER Summary of this class goes here
-    %   Detailed explanation goes here
+    %LEDUCPOKERMANAGER 
 
     properties
         Table
