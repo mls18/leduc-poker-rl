@@ -138,9 +138,9 @@ Agents learn optimal betting strategies through trial and error
 
 ## Training Tips
 
--Short Training (100-1000 games): Quick baseline, basic strategies
+- Short Training (100-1000 games): Quick baseline, basic strategies
 - Medium Training (1000-5000 games): Improved play, reasonable decisions
--Long Training (5000-10000+ games): Advanced strategies, near-optimal play
+- Long Training (5000-10000+ games): Advanced strategies, near-optimal play
 
 ### Technical Details
 ## Game State Management
